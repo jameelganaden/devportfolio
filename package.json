@@ -4,9 +4,9 @@
   "private": true,
   "homepage": "https://jameelganaden.github.io/devportfolio",
   "dependencies": {
+    "lucide-react": "^0.263.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "lucide-react": "^0.263.1"
+    "react-dom": "^18.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -15,8 +15,8 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "react-scripts": "5.0.1",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "react-scripts": "5.0.1"
   },
   "eslintConfig": {
     "extends": [
